@@ -44,7 +44,7 @@
     }
 
     .alert{
-        padding: 20%;
+        padding: 10%;
         position: absolute;
         left: 0;
         right: 0;
@@ -59,7 +59,7 @@
         color: #000;
     }
     .alert h4{
-        font-size: 20px;
+        font-size: 16px;
     }
     .alert .button{
         float: right;
