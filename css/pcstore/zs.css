@@ -88,6 +88,7 @@
         width: 100%;
     }
     .lw{
+        margin: 0 auto;
         position: absolute;
         width: 45%;
         top:0;
@@ -218,6 +219,7 @@
      width: 35%;
      height:80%;
      font-size: 0.2em;
+     -webkit-font-size: 2rem;
      float: left;
  }
  .cont .name h6{
@@ -234,6 +236,7 @@
      width: 65%;
      height:80%;
      font-size: 0.03em;
+     -webkit-font-size: 2rem;
      text-align: left;
      float: right;
  }
@@ -264,12 +267,13 @@
  }
  .dlqy .mg0{
     text-align: left;
-    height: 5%;
+    height: 4%;
      margin: 0;
  }
  .dlqy .inf{
     margin-top: 5.5%;
     text-align: left;
+    line-height: 12%
     height:12%;
     width: 82%;
  }
