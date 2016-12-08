@@ -1,0 +1,6 @@
+company_type         企业类型
+company_name	     企业名称
+conpany_contacts     企业联系人
+company_position     职位
+company_phone	     电话
+conpany_mailbox	     邮箱
