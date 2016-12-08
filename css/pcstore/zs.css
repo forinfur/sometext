@@ -10,6 +10,7 @@
     }
     h6{
         white-space:nowrap; 
+        line-height: 16px;
         margin: 0;
         padding: 0;
     }
@@ -236,7 +237,6 @@
  }
  .cont .name h6{
     text-align: right;
-    
     width: 100%
  }
  .cont .name h6 span{
