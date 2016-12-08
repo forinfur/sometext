@@ -44,6 +44,7 @@
     }
 
     .alert{
+        padding: 20%;
         position: absolute;
         left: 0;
         right: 0;
@@ -102,6 +103,7 @@
     }
     .lw{
         position: absolute;
+        left: 27%;
         width: 45%;
         top:0;
         animation:lw 2s ;
