@@ -285,11 +285,11 @@
          height:15%;
      }
  }
-  @media screen and (max-width: 340px){
+ @media screen and (max-width: 340px){
      .dlqy .inf{
-         margin-top: 3%;
+         margin-top: 1%;
          text-align: left;
-         height:12%;
+         height:11%;
          width: 82%;
      }
  }
