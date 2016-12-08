@@ -235,8 +235,9 @@
  .cont .form_cont{
      width: 65%;
      height:80%;
-     font-size: 0.03em;
-     -webkit-font-size: 2rem;
+     font-size: 13px;
+     -webkit-font-size: 13px;
+     -ms-font-size: 13px;
      text-align: left;
      float: right;
  }
@@ -273,7 +274,7 @@
  .dlqy .inf{
     margin-top: 5.5%;
     text-align: left;
-    line-height: 12%
+    line-height: 12%;
     height:12%;
     width: 82%;
  }
