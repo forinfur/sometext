@@ -235,9 +235,9 @@
  .cont .form_cont{
      width: 65%;
      height:80%;
-     font-size: 13px;
-     -webkit-font-size: 13px;
-     -ms-font-size: 13px;
+    font-size: 12px;
+     -webkit-font-size: 12px;
+     -ms-font-size: 12px;
      text-align: left;
      float: right;
  }
